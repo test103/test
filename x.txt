@@ -2,3 +2,4 @@ napis
 2
 zmiana z branch2
 kolejna zmiana z branch2
+4 zmiana
