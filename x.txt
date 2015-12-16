@@ -3,3 +3,4 @@ napis
 zmiana z branch2
 kolejna zmiana z branch2
 3 zmiana
+4 zmiana
